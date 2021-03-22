@@ -52,7 +52,7 @@ button {
 .a {
   position: relative;
   left: 945px;
-  top: 200px;
+  top: 275px;
   z-index: 2;
   font-style: italic;
 }
@@ -60,7 +60,7 @@ button {
 .b {
   position: relative;
   left: 1250px;
-  top: 310px;
+  top: 350px;
   z-index: 2;
   font-style: italic;
 }
@@ -68,7 +68,7 @@ button {
 .c {
   position: relative;
   left: 945px;
-  top: 475px;
+  top: 550px;
   z-index: 2;
   font-style: italic;
 }
@@ -76,7 +76,7 @@ button {
 .d {
   position: relative;
   left: 650px;
-  top: 170px;
+  top: 250px;
   z-index: 2;
   font-style: italic;
 }
@@ -84,7 +84,7 @@ button {
 .h {
   position: relative;
   left: 750px;
-  top: 170px;
+  top: 250px;
   z-index: 2;
   font-style: italic;
 }
