@@ -51,7 +51,7 @@ button {
   bottom: 1100px;
 }
 
-/ * positioning for the button*/
+/* positioning for the button */
 
 .a {
   position: relative;
@@ -97,7 +97,7 @@ button {
 
 #para {
   position: relative;
-  left: 945px;
+  left: 900px;
   top: 200px;
   font-size: 200%;
   font-style: bold;
