@@ -3,6 +3,7 @@
   text-align: center;
   padding: 20px;
 }
+/*set up for the header */
 
 img {
   display: block;
@@ -11,8 +12,9 @@ img {
   padding-bottom: 700px;
   width: 40%;
   height: 40%;
-  z-index: 1;
+  z-index: -1;
 }
+/*set up for the image, most important being the z-index */
 
 .text1 {
   border: 2px solid black;
@@ -37,6 +39,7 @@ img {
   bottom: 900px;
   z-index: 2;
 }
+/*Simple changes to the text box and more importantly its positioning. The large blank space at the bottom of the page is a ugly scar of the countless failed experiments I had tried to add to the webpage */
 
 button {
   z-index: 2;
@@ -44,6 +47,7 @@ button {
   left: 700px;
   bottom: 1100px;
 }
+/*positioning for the button*/
 
 .a {
   position: relative;
@@ -64,7 +68,7 @@ button {
 .c {
   position: relative;
   left: 945px;
-  top: 470px;
+  top: 475px;
   z-index: 2;
   font-style: italic;
 }
@@ -84,6 +88,15 @@ button {
   z-index: 2;
   font-style: italic;
 }
+/*positioning and formatting for the letters of the shape so the user understood what values to input where */
 
 #para {
+  position: relative;
+  left: 945px;
+  top: 200px;
+  font-size: 200%;
+  font-style: bold;
+  font-family: 'Courier New', Courier, monospace
+  z-index: 5;
 }
+/*Formatting and Placement for the equation and final answer.
