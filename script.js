@@ -21,7 +21,7 @@ function area () {
   answer = ((base1 + base2) / 2) * height
   // The equation that user came to the website to run
 
-  document.getElementById('para').innerHTML = '<p>' + answer + '</p>';
+  document.getElementById('para').innerHTML = '<p>' + answer + '</p>'
   // By accessing the equation paragraph I left inside the box, I can output the answer into the paragraph.
 }
 
